@@ -1,0 +1,40 @@
+{
+    "carros": [
+        {
+            "id": "1",
+            "Marca": "Ferrari",
+            "Detalhes": "F8",
+            "Foto": "https:\/\/www.motor24.pt\/files\/2019\/03\/1681733_Ferrari_F8_Tributo_4-800x533_c.jpg"
+        },
+        {
+            "id": "2",
+            "Marca": "McLaren",
+            "Detalhes": "720s Spider",
+            "Foto": "https:\/\/uploads.diariodopoder.com.br\/2022\/08\/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        },
+        {
+            "id": "3",
+            "Marca": "Nissan",
+            "Detalhes": "R35",
+            "Foto": "https:\/\/images.tcdn.com.br\/img\/img_prod\/1308140\/gtr_r35_51_1_1b91b6b076cda8994830767f2ba265ba.png"
+        },
+        {
+            "id": "6",
+            "Marca": "Toyota",
+            "Detalhes": "Supra Mk4",
+            "Foto": "https:\/\/carrosbemmontados.com.br\/wp-content\/uploads\/2023\/12\/TOYOTA-SUPRA-MK4-6-scaled.jpg.webp"
+        },
+        {
+            "id": "8",
+            "Marca": "Mitsubishi",
+            "Detalhes": "Evo XI",
+            "Foto": "https:\/\/www.razaoautomovel.com\/wp-content\/uploads\/2024\/02\/2024-Mitsubishi-Lancer-EVO-11-_13-scaled-1.webp"
+        },
+        {
+            "id": "9",
+            "Marca": "Audi",
+            "Detalhes": "R8",
+            "Foto": "https:\/\/hips.hearstapps.com\/hmg-prod\/images\/2023-audi-r8-gt-front-three-quarters-motion-3-1664827965.jpg?crop=0.684xw:0.577xh;0.0321xw,0.281xh"
+        }
+    ]
+}
